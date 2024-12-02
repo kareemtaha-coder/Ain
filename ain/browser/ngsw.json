@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1733170466692,
+  "timestamp": 1733171908773,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "/chunk-ODNHHDWH.js",
         "/favicon.ico",
         "/index.html",
-        "/main-4V22UZDZ.js",
+        "/main-JYSJHGKM.js",
         "/manifest.webmanifest",
         "/polyfills-SCHOHYNV.js",
         "/scripts-QYHR5MO2.js",
@@ -35,6 +35,8 @@
       "urls": [
         "/assets/i18n/ar.json",
         "/assets/i18n/en.json",
+        "/assets/icons/ain.png",
+        "/assets/icons/ainIcon.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -59,6 +61,7 @@
         "/assets/images/Screenshot 2024-09-16 140217.png",
         "/assets/images/WhatsApp Image 2024-11-04 at 21.15.18_e4c50537.jpg",
         "/assets/images/ai.png",
+        "/assets/images/ainIcon.png",
         "/assets/images/avatar.avif",
         "/assets/images/brand/7fa987a5bc45f402763d94b98c34d4fb.png",
         "/assets/images/brand/About.png",
@@ -104,6 +107,8 @@
   "hashTable": {
     "/assets/i18n/ar.json": "a742caa54b696acc3a2cbf6f519b6b5a3258bec5",
     "/assets/i18n/en.json": "56ee3606f53c9c018c6cd78a3e29893012154a89",
+    "/assets/icons/ain.png": "5e41ec7ce4899308b32799e8dc7bd1fafe2f7709",
+    "/assets/icons/ainIcon.png": "bfa39801bb81c55b1be6e74b1ebce32ed7a9f73f",
     "/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
     "/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
@@ -128,6 +133,7 @@
     "/assets/images/Screenshot 2024-09-16 140217.png": "535a58e50a309e4d39b162f816884a5f7b0c482d",
     "/assets/images/WhatsApp Image 2024-11-04 at 21.15.18_e4c50537.jpg": "48da7cc7ef488968775f6f34b9b6708c8226d0c0",
     "/assets/images/ai.png": "88449429a872459d00e3858855a0eee0d2f6c8cf",
+    "/assets/images/ainIcon.png": "bfa39801bb81c55b1be6e74b1ebce32ed7a9f73f",
     "/assets/images/avatar.avif": "7c7f5150a09fdf060c008104dd902f9ad1111676",
     "/assets/images/brand/7fa987a5bc45f402763d94b98c34d4fb.png": "941c1c9cf1da29a6b0f1e088cbd96d1c2fa4c117",
     "/assets/images/brand/About.png": "ccdd5c928e3685364bd74acbf4e4fc77981efa40",
@@ -170,9 +176,9 @@
     "/chunk-MPTYT4KZ.js": "84c7d419a036c839a32cdfe38bc7a3c997d40f34",
     "/chunk-ODNHHDWH.js": "47fc8f17fe2da4d869f478a2f10b4d09ec880967",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/index.html": "d99552c43ff9a561ecb0fa7c60d54449856fca14",
-    "/main-4V22UZDZ.js": "64159bf990db2da225fb7c095e3a5ef074dce134",
-    "/manifest.webmanifest": "152aca2ab16b9a5f6a75a284b4d6d05500ad754c",
+    "/index.html": "b454eec55e6f8c67396cf663b51594ef10dd5a67",
+    "/main-JYSJHGKM.js": "d9f1ba9e4f6e2c8d1d0d0ee6d3cd188a23fab6ac",
+    "/manifest.webmanifest": "f4188e3ad01d93c00d46eb630b0da4acd997d6a8",
     "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
     "/scripts-QYHR5MO2.js": "ac16de2daa52ecaaf2fd34d2cdbad1839e065842",
     "/styles-LBCIO2PF.css": "c84f04fcc3c0d9d483bdc8d681fa3dff195d89e4"
