@@ -22,11 +22,17 @@
       "arabic": "🌐 عربى"
     }
   },
+  "hero-title": "Welcome to Ain Learning!",
+  "hero-description": "Dive into interactive courses, enjoy exciting games, and challenge yourself with fun quizzes!",
+  "hero-button": "Get Started",
+  "hero-image-alt": "Fun Learning",
   "hero": {
     "welcome": "Welcome to Al-Fath Institute",
     "description": "We are a global platform offering personalized lessons in Arabic, Islamic studies, and the Quran. With highly qualified teachers, we aim to make learning Arabic and Quranic studies enjoyable and accessible for students and parents worldwide.",
     "getStarted": "Register Now",
     "aboutUs": "About Us",
+    "communities":"Arab communities",
+    "identity":"Identity Consolidation",
     "aboutWelcome": "Welcome to Al-Fath Learning Center",
     "experience": "25+ years of experience achieved",
     "quote": "Allah says: \"ولقد يسرنا القرآن للذكر فهل من مدكر\" When your eyes fall upon this verse, know that all meanings of ease and simplicity in your mind are embodied in it.",
@@ -40,6 +46,31 @@
     "instructors": "Total Instructors",
     "family": "Family",
     "contactUs": "Contact Us"
+  },"About_Ain":{
+    "title":"Ain Learning Academy",
+    "features": [
+      {
+        "title": "Outstanding Learning Environment",
+        "description": "An educational environment that instills values and develops skills",
+        "icon": "fas fa-graduation-cap"
+      },
+      {
+        "title": "Specialized Teachers",
+        "description": "Teachers who are native Arabic speakers",
+        "icon": "fas fa-chalkboard-teacher"
+      },
+      {
+        "title": "Modern Technologies",
+        "description": "Use of modern interactive technical tools",
+        "icon": "fas fa-laptop"
+      }
+    ],"benefit":"Benefits",
+    "benefits": [
+      "One-on-one learning sessions between the student and teacher",
+      "Flexible educational schedules that suit your time",
+      "Teachers fluent in English, French, and German",
+      "Use of modern interactive technological tools and entertaining games"
+    ],"free-lesson":"One free lesson for every new student"
   },
   "INSTITUTE": {
     "TITLE": "Al-Fath Institute for Arabic Language",
@@ -50,39 +81,39 @@
     "LEARN_MORE": "Explore Programs"
   }, "feature": {
     "header": {
-      "title": "Why Parents and Children Love Us"   
-     },
+      "title": "Why Parents and Children Love Ain Academy"
+    },
     "mainFeature": {
-      "description": "Al-Fath Educational School combines traditional Arabic and Islamic education with modern teaching methodologies, making it a pioneer in distance learning for non-native Arabic speakers."
+      "description": "Ain Academy is the top choice for parents, offering flexible, evolving curriculums in Arabic, Quran memorization, and Islamic studies. We focus on building strong relationships with students and parents to support their learning needs."
     },
     "videos": {
       "titles": {
-        "video1": "Getting Started Guide",
-        "video2": "Advanced Features Tutorial",
+        "video1": "Getting Started",
+        "video2": "Advanced Features",
         "video3": "Success Stories"
       },
       "descriptions": {
-        "video1": "Learn how to make the most of our platform in under 5 minutes",
-        "video2": "Discover powerful advanced features to supercharge your workflow",
-        "video3": "See how others have achieved success using our platform"
+        "video1": "Maximize your experience on our platform in under 5 minutes.",
+        "video2": "Learn about powerful features to enhance your learning.",
+        "video3": "Watch how others succeed with our platform."
       }
     },
     "featuresList": {
       "feature0": {
-        "title": "Why Parents Choose Al-Fath Educational School",
-        "description": "The school plays a significant role in instilling the foundations and pillars of the relationship between students, their parents, and the community, as well as its ethics and qualities. On the other hand, we see the community's support for the school and its assistance, believing in its importance and its great role in influencing the community's variables, directions, and future as well."
+        "title": "Why Parents Choose Ain Academy",
+        "description": "Ain Academy fosters positive relationships and plays a key role in shaping the future of students and the community."
       },
       "feature1": {
-        "title": "Arabic Language Excellence",
-        "description": "Specialized curriculum for teaching Arabic to non-native speakers through innovative distance learning methods"
+        "title": "Excellence in Arabic Language",
+        "description": "A comprehensive Arabic curriculum, tailored to each student's pace, whether slow or fast."
       },
       "feature2": {
-        "title": "Quranic Studies",
-        "description": "Comprehensive Quran memorization programs with certified instructors and personalized learning paths"
+        "title": "Quran Studies",
+        "description": "Starting with foundational books, we help students read and memorize the Quran correctly."
       },
       "feature3": {
-        "title": "Islamic Sciences",
-        "description": "In-depth Islamic studies curriculum covering essential religious knowledge and principles"
+        "title": "Islamic Studies",
+        "description": "Our program covers essential faith knowledge, including the biography of the Prophet (PBUH), stories of the Mothers of the Believers, Islamic etiquette, and moral values."
       }
     }
   },
@@ -108,15 +139,15 @@
     }
   },
   "registration": {
-    "desc": "At Al-Fath Institute, we strive to teach Arabic to non-native speakers, help them memorize the Quran, and study Islamic sciences. We focus on understanding the needs of students and providing a curriculum that makes learning Arabic easier in a way that suits their abilities, avoiding the challenges of traditional curriculums. We provide an educational environment that fosters their love for the Arabic language and helps them overcome learning challenges. This is done under the supervision of specialized professors from Al-Azhar University.",
+    "desc": "At Ain Academy, we offer a comprehensive program for teaching Arabic to non-native speakers, Quran memorization, and Islamic studies. We believe that each student has unique learning needs, so we use a flexible curriculum that can be tailored to match their pace and style. Our goal is to provide an inspiring educational environment that fosters a love for the Arabic language and deepens understanding, all under the guidance of highly experienced and specialized teachers.",
     "tag": "Quick Contact",
-    "title": "Register with minimal information",
-    "coursesCount": "We will contact you soon",
-    "coursesText": " by our staff",
-    "subtitle": "Learn something new and build your child’s future from anywhere in the world",
+    "title": "Register easily and start your learning journey",
+    "coursesCount": "A member of our team will contact you",
+    "coursesText": "to guide you through the registration process",
+    "subtitle": "Give your child the opportunity to learn and grow from anywhere in the world",
     "videoHint": {
       "title": "Watch the introductory video",
-      "subtitle": "Learn more about Alfath Institute"
+      "subtitle": "Learn more about Ain Academy"
     },
     "form": {
       "title": "Fill Your Registration",
@@ -131,14 +162,14 @@
       "phoneNumber": {
         "error": "Phone Number is required."
       },
-      "submit": "Sign Up →"
+      "submit": "Sign Up "
     }
   },
   "subject": {
-    "popularSubjectLabel": "Popular Subjects",
-    "headerTitle": "Join the Al-Fath Teaching Team",
-    "headerSubtitle": "Contribute to the future of education at Al-Fath Institute by joining our team of passionate and qualified teachers.",
-    "headerQuote": "At Al-Fath, teaching is about nurturing minds and inspiring growth. Become part of our mission to deliver quality education.",
+    "popularSubjectLabel": "Popular Programs",
+    "headerTitle": "Join the Ain Academy Teaching Team",
+    "headerSubtitle": "Empower students worldwide by becoming part of Ain Academy's dedicated team of educators, shaping the future of learning with passion and expertise.",
+    "headerQuote": "At Ain Academy, we believe education is more than knowledge—it's about transforming lives. Join us in creating a nurturing, dynamic learning environment.",
     "applyButton": "Apply Now",
     "subjectCards": [
       {
@@ -152,11 +183,6 @@
         "description": "Join our institute to teach students the recitation and memorization of the Holy Qur'an."
       },
       {
-        "icon": "📖",
-        "title": "Tajweed",
-        "description": "Be part of our department teaching proper Tajweed and the memorization of the Qur'an."
-      },
-      {
         "icon": "📝",
         "title": "Arabic Language",
         "description": "Help us preserve the beauty of the Arabic language by teaching it to our enthusiastic students."
@@ -167,37 +193,41 @@
   "activities": {
     "title": "Explore Our Courses",
     "cards": [
-      {
-        "image": "../../../assets/images/Arabic.png",
-        "title": "Arabic Course",
-        "description": "At Al-Fateh Institute, we make learning Arabic easy and enjoyable. We light the way to effective communication. ",
-        "buttonLabel": "Explore Course",
-        "link": "arabic-course"
-      },
-      {
-        "image": "../../../assets/images/Praying_boy-scaled.jpg",
-        "title": "Qur'an Course",
-        "description": "At Al-Fateh Institute, we make learning the Holy Quran an inspiring spiritual experience. We light the way to faith and devotion",
-        "buttonLabel": "Explore Course",
-        "link": "quran-course"
-      },
-      {
-        "image": "../../../assets/images/Islamic.avif",
-        "title": "Islamic Course",
-        "description": "At Al-Fateh Institute, we make learning Islamic sciences an inspiring journey towards deep understanding. We light the way to wisdom. ",
-        "buttonLabel": "Explore Course",
-        "link": "islamic-course"
-      }
-    ]
+    {
+      "image": "../../../assets/images/Arabic.jpg",
+      "title": "Arabic Language Course",
+      "description": "At Ain Academy, we offer a flexible and comprehensive curriculum for teaching Arabic to non-native speakers. We adapt to your pace and needs to achieve the best results.",
+      "buttonLabel": "Explore the Course",
+      "link": "arabic-course"
+    },
+    {
+      "image": "../../../assets/images/3.png",
+      "title": "Quran Learning Course",
+      "description": "At Ain Academy, we start with students of various levels to teach accurate Quran reading, focusing on memorization and understanding through engaging methods.",
+      "buttonLabel": "Explore the Course",
+      "link": "quran-course"
+    },
+    {
+      "image": "../../../assets/images/Islamic.jpg",
+      "title": "Islamic Studies Course",
+      "description": "At Ain Academy, we offer a unique journey in Islamic studies, covering the Prophet’s biography, stories of the Companions, and ethics, presented in an engaging way for all ages.",
+      "buttonLabel": "Explore the Course",
+      "link": "islamic-course"
+    }
+  ]
   },
  
   "testimonials": {
     "title": "What Parents Say About Us",
-    "popularSubjectLabel": "Al-Fath Institute",
-    "headerTitle": "Today's Children Will Be Tomorrow's Leaders and the Future We Must Invest In",
-    "headerSubtitle": "Al-Fath Educational School plays an active role in nurturing students and strengthening their skills within the community. As the foundational support after the family, the school is essential in educating, developing talents",
-    "headerQuote": "Many people may overlook the importance of Al-Fath Educational School and its significant role in community development, neglecting the idea of enrolling their children. Often considered secondary to the main educational system in their country, whether in America or Europe, the Arabic language and Islamic teachings may be undervalued. However, this neglect could affect children's Arabic and Islamic identity.",
-    "exploreButton": "Contact Us to Learn More"
+    "popularSubjectLabel": "Ain Academy",
+    "headerTitle": "Today's Children Will Be Tomorrow's Leaders and Future Worth Investing In",
+    "headerSubtitle": "Ain Academy plays a significant role in the development of students and strengthening their skills within the community. It serves as the foundation after the family in educating and nurturing children, polishing their talents and personalities. A school with a strong educational and moral reputation can establish an enlightened society, passionate about learning, and produce a generation that leaves a positive impact on its future.",
+    "headerQuote": "Many people may overlook the importance of Ain Academy and its significant role in community development. They may neglect enrolling their children, viewing it as a secondary priority, especially due to its focus on the Arabic language alongside the educational system in their home countries like America or Europe. However, this neglect can harm your children's Arabic and Islamic identity, with negative consequences in the future. They could lose the ability to speak Arabic, struggle with reading the Quran, and lack an understanding of the core principles of Islam. Our children are a trust in our care, and we must choose the best educational institutions for them. The school plays a pivotal role in shaping a child's success and upbringing.",
+    "exploreButton": "Contact to Learn More"
+  },
+  "blog":{
+    "title":"Latest From Our Blog",
+    "subtitle":"Stay updated with our latest insights and stories"
   },
   "features": {
     "imageUrl": "assets/images/hero.png",
@@ -284,7 +314,7 @@
     },
     {
       "TITLE": "Does my son study alone or with a group?",
-      "CONTENT": "Yes, we have students starting from 4 years old and teachers who specialize in dealing with these ages",
+      "CONTENT": "At Ain Academy, each student typically studies individually, ensuring personalized attention. However, the academy also allows family members to study together, provided that their levels and progress are similar. This approach ensures that no student is left behind or held back due to varying academic levels.",
       "ICON_ALT": "Question Icon"
     },
     {
@@ -298,7 +328,7 @@
       "ICON_ALT": "Question Icon"
     }
   ]
-  },
+  },"blog-title":"Our Creative Articles",
   "MODAL": {
     "TITLE": "Let's Connect!",
     "CLOSE": "Close",
@@ -348,69 +378,69 @@
     }
   },
   "Arabic-course": {
-    "welcome": " 📚Al-Fath Institute 🌍",
-    "description": "presents: Arabic Language Course for Non-Native Speakers ",
-    "why_choose": "Why choose Al-Fath Institute's course?",
+  "welcome": "📚 Ain Academy 🌍",
+  "description": "Offering: Arabic Language Course for Non-Native Speakers",
+  "why_choose": "Why Choose Ain Academy's Arabic Course?",
+  "points": [
+    "A flexible and adaptive curriculum designed to teach Arabic to all age groups and proficiency levels.",
+    "A team of specialized teachers who are native Arabic speakers, using the latest educational methods and tools.",
+    "Comprehensive courses covering reading, writing, listening, and speaking to ensure a complete learning experience.",
+    "For students who cannot read or write, we start from the basics, teaching the alphabet and progressing to reading and writing fluently.",
+    "Lessons can be customized to suit each student's pace, whether they prefer a slow, methodical approach or a fast and focused one."
+  ],
+  "objectives": {
+    "title": "Course Objectives:",
     "points": [
-      "A comprehensive curriculum covering all aspects of Arabic: reading, writing, speaking, and listening, ensuring a well-rounded education.",
-      "A team of professional teachers experienced in teaching Arabic to non-native speakers, using the latest methods.",
-      "A variety of classes for different ages and levels, with a flexible schedule to suit families. Private classes are also available.",
-      "We rely on modern technology and interactive tools for an enjoyable and effective learning experience.",
-      "In addition to language, students gain a deep understanding of Arab and Islamic culture, reinforcing their cultural identity."
-    ],
-    "objectives": {
-      "title": "Course Objectives:",
-      "points": [
-        "Develop Arabic language skills in children and youth in a fun and effective way.",
-        "Strengthen the Arab and Islamic cultural identity of the community.",
-        "Provide opportunities for community members to connect and share experiences."
-      ]
-    },
-    "call_to_action": "Don't miss this valuable opportunity to teach your children Arabic and enable them to connect better with their community.",
-    "registration": "register or learn more"
+      "Enable students to master the Arabic language through a flexible and advanced teaching methodology.",
+      "Teach children and adults all aspects of the Arabic language, from basics to advanced levels.",
+      "Promote Arabic and Islamic cultural identity through lessons related to the Quran and Islamic studies."
+    ]
   },
+  "call_to_action": "Book your spot now! Don’t miss the opportunity to teach your children Arabic and enhance their cultural and religious identity.",
+  "registration": "To register or learn more details, please visit the registration page."
+},
   "Islamic-course": {
-    "welcome": "📚Al-Fath Institute🌍",
-    "description": " Al-Fath Institute offers a distinguished Islamic studies course for Arab children and youth residing in America and Europe.",
-    "why_choose": "Why choose Al-Fath Institute's course?",
+    "welcome": "📚Ain Academy🌍",
+    "description": "Ain Academy offers a distinguished Islamic studies program for all ages, focusing on developing strong moral character and understanding of Islamic teachings.",
+    "why_choose": "Why choose Ain Academy's Islamic studies course?",
     "points": [
-      "A comprehensive curriculum covering various aspects of Islamic sciences: Quran, Hadith, Fiqh, and Aqeedah, ensuring a well-rounded education.",
-      "A team of experienced and specialized teachers in children's education, using the latest methods.",
-      "A variety of classes for different ages and levels, with a flexible schedule to suit families. Private lessons are also available upon request.",
-      "We rely on modern technology and interactive tools for an enjoyable and effective learning experience.",
-      "In addition to Islamic sciences, students are taught Islamic morals and values to strengthen their cultural and religious identity."
+      "Our curriculum covers various aspects of Islamic knowledge including Seerah (life of Prophet Muhammad ﷺ), stories of the mothers of the believers, and Islamic manners.",
+      "We teach important Islamic values, such as honesty, generosity, and respect, while also addressing negative traits like lying, dishonesty, and greed.",
+      "Our program is designed to be engaging, with illustrations and simple explanations suitable for children of all ages.",
+      "Interactive lessons and modern teaching tools are used to keep students engaged while learning.",
+      "Students learn Islamic etiquette and moral behavior that can be applied in daily life."
     ],
     "objectives": {
       "title": "Course Objectives:",
       "points": [
-        "Develop Islamic science skills in children and youth in a fun and effective way.",
-        "Strengthen the Islamic and cultural identity of the Arab community.",
-        "Provide opportunities for community members to connect and share experiences."
+        "Introduce students to key figures in Islamic history like the Prophet Muhammad ﷺ and his companions.",
+        "Instill good character and moral behavior by teaching Islamic ethics and values.",
+        "Provide a deeper understanding of Islamic teachings, fostering both spiritual growth and social responsibility."
       ]
     },
-    "call_to_action": "Reserve your spot now! Don't miss this valuable opportunity to teach your children Islamic sciences and enable them to connect better with their community.",
+    "call_to_action": "Reserve your spot now! Help your children learn the important values and ethics of Islam while strengthening their faith.",
     "registration": "To register or learn more, please visit the registration page."
   },
   "Quran-course": {
-    "welcome": "📖Al-Fath Institute🌍",
-    "description": "Al-Fath Institute offers a distinguished Qur'an course for Arab children and youth residing in America and Europe.",
-    "why_choose": "Why choose Al-Fath Institute's Qur'an course?",
+    "welcome": "📖Ain Academy🌍",
+    "description": "Ain Academy offers a specialized Qur'an course designed for children and youth who are non-readers of Arabic, starting from the basics to the correct recitation and memorization of the Qur'an.",
+    "why_choose": "Why choose Ain Academy's Qur'an course?",
     "points": [
-      "A comprehensive curriculum covering Qur'anic recitation, Tajweed, and memorization of various Surahs, catering to all levels.",
-      "A team of specialized teachers experienced in teaching children Tajweed and memorization using modern educational methods.",
-      "Flexible class schedules that suit family needs, with the option for private lessons.",
-      "We use interactive technology to provide an enjoyable and effective learning experience.",
-      "In addition to memorization, children are taught the meanings of the Surahs to deepen their understanding of the Qur'an."
+      "A structured curriculum starting with foundational books like Noor Al-Bayan, Fath Al-Rahman, and Al-Qaidah Al-Baghdadiyah for beginners.",
+      "We focus on teaching children the correct recitation of the Qur'an, even for those who cannot read or write, using simplified and interactive methods.",
+      "For children who are not yet able to read, we start with memorization of the Qur'an using dictation, understanding the meanings of words, and simple interpretations.",
+      "Our team of experienced teachers ensures that all students learn in a supportive and engaging environment.",
+      "We incorporate modern technology and interactive tools to make Qur'anic learning both enjoyable and effective."
     ],
     "objectives": {
       "title": "Course Objectives:",
       "points": [
-        "Teach children proper Qur'anic recitation and Tajweed.",
-        "Help children memorize the Qur'an and strengthen their connection to it.",
-        "Provide children with a deeper understanding of the meanings of the Qur'an."
+        "Enable children to read and memorize the Qur'an correctly.",
+        "Help children understand the meanings and interpretations of the Qur'an.",
+        "Instill a love for the Qur'an and ensure strong retention through practical methods."
       ]
     },
-    "call_to_action": "Reserve your spot now! Don't miss this valuable opportunity to teach your children how to recite and memorize the Qur'an, and strengthen their connection to their faith.",
+    "call_to_action": "Reserve your spot now! Don’t miss this valuable opportunity to help your children connect with the Qur'an and develop proper recitation and memorization skills.",
     "registration": "To register or learn more, please visit the registration page."
   },
   "HIRING-Teacher": {
